@@ -7,5 +7,5 @@
 - 💬 Ask me about Java, Spring, Scrum
 - 📫 How to reach me: vincent.vauban@zenika.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I start programming for a municipal sport club
+- ⚡ Fun fact: I started programming for a municipal sport club
 
